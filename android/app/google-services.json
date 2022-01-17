@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650830363681",
+    "project_id": "runforrest-e7050",
+    "storage_bucket": "runforrest-e7050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650830363681:android:0846bc80eb86c7c7103760",
+        "android_client_info": {
+          "package_name": "com.week_6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650830363681-5teuhb8rqq0e54qkb0buie71kbcnbc5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqFUxLsuSqrs7Uq6tb7MXYCB8TndSSksY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650830363681-5teuhb8rqq0e54qkb0buie71kbcnbc5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
