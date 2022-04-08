@@ -2,7 +2,7 @@
 
 ## Info
 
-A running and walking application where you can calculate your distance and time, see the weather ınfo on your location and track your location on the map. You can save your activities and you can see them after. 
+A running and walking application where you can calculate your distance and time, see the weather info on your location and track your location on the map. You can save your activities and you can see them after. 
 
 |                             |                             |                             |                             |                       
 | :-------------------------: | :-------------------------: | :-------------------------: | :-------------------------: | 
