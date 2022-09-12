@@ -35,5 +35,4 @@ A running and walking application where you can calculate your distance and time
   <br/>
   <br/>
   <img src="src/assets/gifs/gif4.gif" width="400" height="740" >
-  <br/>
 </p>
